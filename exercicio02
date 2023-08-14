@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>FONTE</h1>
+     <H2>FONTE</H2>
+     <H3>FONTE</H3>
+     <h4>FONTE</h4>
+     <H6>FONTE</H6>
+     <H6>FONTE</H6>
+     <P><B>FONTE EM NEGRITO</B><br>
+     <I>FONTE EM ITALICO</I></P>
+</body>
+</html>
